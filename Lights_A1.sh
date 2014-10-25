@@ -37,7 +37,7 @@ A2_Lights_Off()
 A3_Lights_On()
 {
 	heyu on a3
-	espeak -v female1 "The garage lights are on, Andrew."
+	espeak -v female1 "The gahraj lights are on, Andrew."
 }
 
 A3_Lights_Off()
