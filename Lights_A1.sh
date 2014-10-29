@@ -58,7 +58,7 @@ if	[ $1 = $A2 ]; then
 	if( $2 ); then
    	A2_Lights_On
 	else
-   	A2_Lights_Off
+   	A2_Lights_Off 
    fi
 fi
 
