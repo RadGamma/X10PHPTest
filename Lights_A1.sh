@@ -2,7 +2,7 @@
 
 #######################################################################
 #
-# this is the shell script called by php that runs the x10 system
+#  this is the shell script called by php that runs the x10 system
 #
 #######################################################################
 
